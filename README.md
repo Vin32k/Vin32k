@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
+
+https://user-images.githubusercontent.com/124156353/226121206-24d410d0-bacf-44c6-b372-c39c847947a0.mp4
+
 
 ## I'm a Computer Engineering Student and Java Back-End Developer!
 
