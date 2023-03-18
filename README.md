@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Vin32k/Vin32k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a Computer Engineering Student and Java Back-End Developer!
 
 - 🔭 I’m currently working on Java!
 - 🌱 I’m currently learning Java, SQL, CSS, HTML, Javascript!
@@ -22,7 +19,7 @@ Here are some ideas to get you started:
 👔 [linkedin][linkedin]
 
 
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
+[instagram]: [https://instagram.com/bradgarropy](https://www.instagram.com/vin32k.sys/)
+[linkedin]: [https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/vincenzo-barrano-0a9611192/)
 
 
