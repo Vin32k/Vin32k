@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Java!
 - 🌱 I’m currently learning Java, SQL, CSS, HTML, Javascript!
-- 📫 How to reach me: ...
+- 📫 How to reach me: LinkedIn!
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I love Cyber-Security!
  
@@ -12,7 +12,7 @@
 👔 [linkedin][linkedin]
 
 
-[instagram]: [https://instagram.com/bradgarropy](https://www.instagram.com/vin32k.sys/)
-[linkedin]: [https://linkedin.com/in/bradgarropy](https://www.linkedin.com/in/vincenzo-barrano-0a9611192/)
+[instagram]: https://www.instagram.com/vin32k.sys
+[linkedin]: https://www.linkedin.com/in/vincenzo-barrano-0a9611192
 
 
