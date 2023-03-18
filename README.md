@@ -7,14 +7,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I love Cyber-Security!
-
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📰 [newsletter][newsletter] **|** 
-📦 [npm][npm] **|** 
+ 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
