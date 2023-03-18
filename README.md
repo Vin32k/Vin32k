@@ -1,6 +1,4 @@
-<bgcolor = 'red'> 
-
-### Hi there! 👋
+### Hi everyone! I'm Vincenzo! Welcome to my page! 👋
 
 https://user-images.githubusercontent.com/124156353/226121206-24d410d0-bacf-44c6-b372-c39c847947a0.mp4
 
